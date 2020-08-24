@@ -1,7 +1,7 @@
 const fs = require('fs')
 const protobuf = require('protocol-buffers');
 const schemas = protobuf(
-    fs.readFileSync(`${__dirname}/../detailPage/detail.proto`)
+    fs.readFileSync(`${__dirname}/../2.detail/detail.proto`)
 );
 
 // 假数据

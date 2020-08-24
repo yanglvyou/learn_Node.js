@@ -1,5 +1,3 @@
-# learn_Node.js
-
 # 先跑npm run microservice
 # 再跑npm run bff
 # 访问demo页
